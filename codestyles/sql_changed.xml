@@ -1,0 +1,19 @@
+<code_scheme name="sql_changed" version="173">
+  <option name="DO_NOT_FORMAT">
+    <list>
+      <fileSet type="namedScope" name="Unnamed" pattern="file:*.php" />
+    </list>
+  </option>
+  <MarkdownNavigatorCodeStyleSettings>
+    <option name="RIGHT_MARGIN" value="72" />
+  </MarkdownNavigatorCodeStyleSettings>
+  <SqlCodeStyleSettings version="2">
+    <option name="QUERY_EL_LINE" value="101" />
+    <option name="WHERE_EL_LINE" value="101" />
+  </SqlCodeStyleSettings>
+  <codeStyleSettings language="SQL">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>

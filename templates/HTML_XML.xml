@@ -1,0 +1,8 @@
+<templateSet group="HTML/XML">
+  <template name="echo" value="&lt;?= $CURSOR$ ?&gt;$END$" description="echo php html" toReformat="true" toShortenFQNames="true">
+    <variable name="CURSOR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,7 @@
+<templateSet group="AngularJS ">
+  <template name="ttt" value="testng_lvt" description="testing_lvt" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
