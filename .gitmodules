@@ -1,0 +1,3 @@
+[submodule "subm01"]
+	path = subm01
+	url = git@github.com:horse13/test000.git
