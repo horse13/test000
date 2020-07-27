@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="nothing" type="PLAIN_TEXT" />
+      <mapping pattern="test0" type="PLAIN_TEXT" />
+      <mapping pattern="validate2" type="PLAIN_TEXT" />
+      <removed_mapping pattern="nothing" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="phpunit.xml.dis" approved="true" type="XML" />
+    </extensionMap>
+  </component>
+</application>

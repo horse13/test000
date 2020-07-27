@@ -1,0 +1,11 @@
+<templateSet group="user">
+  <template name="tt100" value="a" description="tt" toReformat="false" toShortenFQNames="true" />
+  <template name="fn" value="fn ($TYPE$ $INSTANCE$) =&gt; $INSTANCE$$END$" description="Arrow function" toReformat="false" toShortenFQNames="true">
+    <variable name="TYPE" expression="completeSmart()" defaultValue="" alwaysStopAt="true" />
+    <variable name="INSTANCE" expression="concat(&quot;$&quot;, camelCase(TYPE))" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="PHP Expression" value="true" />
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+</templateSet>

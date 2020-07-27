@@ -1,0 +1,20 @@
+<keymap version="1" name="Windows copy1 b" parent="$default">
+  <action id="$Paste">
+    <keyboard-shortcut first-keystroke="ctrl v" />
+    <keyboard-shortcut first-keystroke="shift insert" />
+    <keyboard-shortcut first-keystroke="ctrl 1" />
+  </action>
+  <action id="DuplicatesForm.SendToLeft" />
+  <action id="Editor Paste">
+    <keyboard-shortcut first-keystroke="ctrl 1" />
+  </action>
+  <action id="EditorForwardParagraph">
+    <keyboard-shortcut first-keystroke="ctrl period" />
+  </action>
+  <action id="FileChooser.GotoHome" />
+  <action id="GotoAction" />
+  <action id="GotoBookmark1" />
+  <action id="ManageRecentProjects">
+    <keyboard-shortcut first-keystroke="shift ctrl a" />
+  </action>
+</keymap>

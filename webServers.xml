@@ -1,0 +1,13 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3e19f5cb-06ae-4ca4-bf49-3c7ab1bc701e" name="test0" url="http://localhost">
+        <fileTransfer rootFolder="/home/horsey/sftp-from-existing.test" accessType="SFTP" host="172.25.95.62" port="22" sshConfigId="a595ecd4-a922-4560-8c33-c87677304586" sshConfig="horsey@172.25.95.62:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
